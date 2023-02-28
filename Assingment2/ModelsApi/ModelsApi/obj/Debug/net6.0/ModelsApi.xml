@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ModelsApi</name>
+    </assembly>
+    <members>
+        <member name="T:ModelsApi.Controllers.AccountController">
+            <summary>
+            Use this API to login and change password.
+            </summary>
+        </member>
+        <member name="M:ModelsApi.Controllers.AccountController.Login(ModelsApi.Models.DTOs.Login)">
+            <summary>
+            You must login before you can use any other api call.
+            </summary>
+            <param name="login"></param>
+            <returns>Token</returns>
+            <response code="200">Returns the token</response>
+            <response code="400">If login is null or validation fails</response>
+            
+        </member>
+        <member name="M:ModelsApi.Controllers.AccountController.ChangePassword(ModelsApi.Models.DTOs.changePassword)">
+            <summary>
+            Use to change the password.
+            </summary>
+            <param name="login"></param>
+            <returns></returns>
+            <response code="200">If success</response>
+            <response code="400">If incorrect data</response>
+            
+        </member>
+        <member name="M:ModelsApi.Controllers.ExpensesController.GetExpenses">
+            <summary>
+            A maneger can get all expenses.
+            </summary>
+            <returns>A list of expenses</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.ExpensesController.GetExpense(System.Int64)">
+            <summary>
+            To get a specific expense
+            </summary>
+            <param name="id">expenseId</param>
+            <returns>Expense</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.ExpensesController.GetExpenseForModel(System.Int64)">
+            <summary>
+            Returns a list of expenses for a model.
+            </summary>
+            <param name="modelId">modelId</param>
+            <returns>A list of expenses</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.ExpensesController.PutExpense(System.Int64,ModelsApi.Models.Entities.EfExpense)">
+            <summary>
+            Use to change an expense.
+            </summary>
+            <param name="id">expenseId</param>
+            <param name="expense">The updated expense</param>
+            <returns>No content if succesfull</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.ExpensesController.PostExpense(ModelsApi.Models.DTOs.NewExpense)">
+            <summary>
+            Create a new expense for a model.
+            </summary>
+            <param name="newExpense"></param>
+            <returns>Created at and the new expense</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.ExpensesController.DeleteExpense(System.Int64)">
+            <summary>
+            Deletes the expense.
+            </summary>
+            <param name="id">expenseId</param>
+            <returns>No content if succesfull</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.JobsController.GetJobs">
+            <summary>
+            For manegers all jobs with models but without expenses are returned.
+            For models only their own jobs are returned.
+            </summary>
+            <returns>A list of jobs</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.JobsController.GetJob(System.Int64)">
+            <summary>
+            To get a job with assigned models
+            </summary>
+            <param name="id">JobId</param>
+            <returns>The job</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.JobsController.PutJob(System.Int64,ModelsApi.Models.DTOs.NewJob)">
+            <summary>
+            To update a jobs properties.
+            </summary>
+            <param name="jobId">The job to update</param>
+            <param name="newJob">The updated job</param>
+            <returns>204 if succesfull</returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.JobsController.PostJob(ModelsApi.Models.DTOs.NewJob)">
+            <summary>
+            Create a new job
+            </summary>
+            <param name="newJob"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.JobsController.AddModelToJob(System.Int64,System.Int64)">
+            <summary>
+            Add model to job.
+            </summary>
+            <param name="jobId">jobId</param>
+            <param name="modelId">modelId</param>
+            <returns></returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.JobsController.RemoveModelFromJob(System.Int64,System.Int64)">
+            <summary>
+            Removes the model from the job.
+            </summary>
+            <param name="jobId">jobId</param>
+            <param name="modelId">ModelId</param>
+            <returns></returns>
+        </member>
+        <member name="M:ModelsApi.Controllers.ModelsController.GetModelwithJobs(System.Int64)">
+            <summary>
+            Returns the basic info for a model with an array of the models jobs.
+            </summary>
+            <param name="id">ModelId</param>
+            <returns>Model with jobs</returns>
+        </member>
+    </members>
+</doc>

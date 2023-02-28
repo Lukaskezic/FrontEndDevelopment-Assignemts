@@ -1,0 +1,36 @@
+﻿<Application x:Class="DebtBook.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DebtBook"
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="ForegroundBrush" Color="DodgerBlue"></SolidColorBrush>
+        <SolidColorBrush x:Key="BackgroundBrush" Color="LightSlateGray"></SolidColorBrush>
+
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="Foreground" Value="Purple"></Setter>
+            <Setter Property="VerticalAlignment" Value="Top"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+            <Setter Property="FontSize" Value="8"></Setter>
+        </Style>
+
+        <Style TargetType="{x:Type DataGrid}">
+            <Setter Property="FontFamily" Value="Courier New "></Setter>
+        </Style>
+
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="FontFamily" Value="Courier New "></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="FontSize" Value="10"></Setter>
+            <Setter Property="Foreground" Value="Purple"></Setter>
+        </Style>
+
+        <Style x:Key="TbxStyle" TargetType="TextBox">
+            <Setter Property="FontSize" Value="8"></Setter>
+            <Setter Property="FontFamily" Value="Consolas"></Setter>
+            <Setter Property="BorderThickness" Value="3"></Setter>
+            <Setter Property="VerticalAlignment" Value="Top"></Setter>
+        </Style>
+
+    </Application.Resources>
+</Application>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmNmjm8STwcdeLAygkkYiWn6JesG8rILCV/jYtP3XNxC2dSHXe5MaO9JQd4AjIqQltqJfn0k4YhZt7R1E1cXGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lukas\\OneDrive\\Skrivebord\\FEDEksamen\\Assignment1\\TheDebtBook\\DebtBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

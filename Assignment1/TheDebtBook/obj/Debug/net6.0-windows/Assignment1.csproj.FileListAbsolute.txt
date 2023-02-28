@@ -1,0 +1,110 @@
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.exe
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.deps.json
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.runtimeconfig.json
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.lref
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.g.resources
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfo.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\refint\Assignment1.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\ref\Assignment1.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\window2.g.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Lukas\OneDrive\Skrivebord\FED_Assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\window2.baml
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\AddDebtWindow.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.lref
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\refint\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.exe
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.deps.json
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.runtimeconfig.json
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\AddDebtWindow.baml
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.g.resources
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfo.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.CopyComplete
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\ref\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\ShowDebitsWindow.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED-assignments\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\ShowDebitsWindow.baml
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.exe
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.deps.json
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.runtimeconfig.json
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.AssemblyReference.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\AddDebtWindow.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\ShowDebitsWindow.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.lref
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\AddDebtWindow.baml
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\ShowDebitsWindow.baml
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.g.resources
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfo.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.CopyComplete
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\refint\Assignment1.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Aflevering1\Assignment1\Assignment1\obj\Debug\net6.0-windows\ref\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\DebtorView.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1_MarkupCompile.lref
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\refint\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.exe
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.deps.json
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.runtimeconfig.json
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\DebtorView.baml
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.g.resources
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfo.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.csproj.CopyComplete
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\ref\Assignment1.dll
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\ShowDebitsView.g.cs
+C:\Users\Lukas\OneDrive\Dokumenter\GitHub\FED2\Assignment1\Assignment1\obj\Debug\net6.0-windows\Views\ShowDebitsView.baml

@@ -1,0 +1,69 @@
+﻿<Window x:Class="DebtBook.Views.ShowDebitsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DebtBook.Views"
+        mc:Ignorable="d"
+        Height="300" Width="500"
+        WindowStartupLocation="CenterOwner"
+        DataContext="{Binding ElementName=tbxld}"
+        ShowInTaskbar="False"
+        Title="{Binding Path=Title}" 
+        Background="{DynamicResource ResourceKey=BackgroundBrush}"
+        Foreground="{DynamicResource ResourceKey=ForegroundBrush}"
+
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="3*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="4*" />
+        </Grid.ColumnDefinitions>
+        <Label Margin="5,0" >Value</Label>
+
+
+        <TextBox Grid.Column="1"                  
+                 Name="tbxValue" 
+                 Text="{Binding Path=CurrentTransac.Amount}"
+                 TabIndex="1" TextChanged="tbxValue_TextChanged"
+
+                 />
+        <WrapPanel Grid.Column="1"
+                   Grid.Row="2"
+                   HorizontalAlignment="Center"
+                   >
+            <Button IsDefault="True" 
+                    TabIndex="5"
+                    MinWidth="75" 
+                    Name="btnOk"
+                    Content="_Add value"
+                    Command="{Binding Path=OkBtnCommand2}"
+                    Margin="5" Click="btnOk_Click2"
+                    />
+            <Button Grid.Column="1"
+                    Grid.Row="4"
+                    IsCancel="True" 
+                    TabIndex="6"
+                    MinWidth="75" 
+                    Name="btnCancel" 
+                    Content="_Cancel"
+                    Margin="5"
+                    />
+        </WrapPanel>
+        <DataGrid ItemsSource="{Binding Path=CurrentDebtor.Transactions}" 
+                  SelectedItem="{Binding Path = CurrentTransac}"
+                  IsSynchronizedWithCurrentItem="True"
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  CanUserDeleteRows="False" 
+                  Margin="9,37,200,9"
+                      Grid.Column="2"
+                      Grid.Row="2" SelectionChanged="DataGrid_SelectionChanged">
+        </DataGrid>
+    </Grid>
+</Window>

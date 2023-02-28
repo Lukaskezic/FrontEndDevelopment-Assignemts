@@ -1,0 +1,119 @@
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.exe
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.deps.json
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.runtimeconfig.json
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.dll
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.AssemblyReference.cache
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.g.cs
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.g.cs
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.cache
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.lref
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.baml
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.baml
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.g.resources
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfoInputs.cache
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfo.cs
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CoreCompileInputs.cache
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CopyComplete
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.dll
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\refint\DebtBook.dll
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.genruntimeconfig.cache
+C:\Users\batu1\Desktop\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\ref\DebtBook.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.exe
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.deps.json
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.runtimeconfig.json
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.AssemblyReference.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.lref
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.baml
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.baml
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.g.resources
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfoInputs.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfo.cs
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CoreCompileInputs.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CopyComplete
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\refint\DebtBook.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.genruntimeconfig.cache
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\ref\DebtBook.dll
+C:\Users\batu1\Desktop\4. semester\Front End\Obligatoriske afleveringer\Front End Assignment 1\TheDebtBook\TheDebtBook\obj\Debug\net6.0-windows\App.baml
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.exe
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.deps.json
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.runtimeconfig.json
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.dll
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.AssemblyReference.cache
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.g.cs
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.g.cs
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.cache
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.lref
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\App.baml
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.baml
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.baml
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.g.resources
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfoInputs.cache
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfo.cs
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CoreCompileInputs.cache
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CopyComplete
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.dll
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\refint\DebtBook.dll
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.genruntimeconfig.cache
+C:\Users\batu1\Desktop\FedGit\FED\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\ref\DebtBook.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.exe
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.deps.json
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.runtimeconfig.json
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.AssemblyReference.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.g.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.g.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook_MarkupCompile.lref
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\App.baml
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\DebtorView.baml
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\Views\ShowDebitsView.baml
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.g.resources
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfoInputs.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.AssemblyInfo.cs
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.csproj.CopyComplete
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\refint\DebtBook.dll
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.pdb
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\DebtBook.genruntimeconfig.cache
+C:\Users\Lukas\OneDrive\Skrivebord\FEDEksamen\Assignment1\TheDebtBook\obj\Debug\net6.0-windows\ref\DebtBook.dll
